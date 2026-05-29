@@ -1,5 +1,4 @@
 # Cybersecurity_Awareness_ChatBot_Part2
-# Cybersecurity Awareness ChatBot Presentation
 
 ## Project Introduction
 
